@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\bin\Debug\net6.0\Zadacha_15.exe
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\bin\Debug\net6.0\Zadacha_15.deps.json
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\bin\Debug\net6.0\Zadacha_15.runtimeconfig.json
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\bin\Debug\net6.0\Zadacha_15.dll
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\bin\Debug\net6.0\Zadacha_15.pdb
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.dll
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\refint\Zadacha_15.dll
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.pdb
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\Zadacha_15.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Origin\GU_3300_1\Zadacha_15\obj\Debug\net6.0\ref\Zadacha_15.dll
